@@ -1,224 +1,723 @@
 <div align="center">
 
-<!-- ANIMATED HEADER / ILLUSIONIST TYPING BANNER -->
-<a href="https://github.com/Saba1512006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=⚡+SABA+RAJPUT+%2F%2F+CYBER-SYSTEMS+ARCHITECT;🚀+FULL-STACK+%26+DUAL-MODEL+AI+ENGINEER;🔮+TRANSFORMING+COMPLEX+LOGIC+INTO+STATE-OF-THE-ART+SOFTWARE" alt="Typing Banner" />
-</a>
-
-<p align="center">
-  <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/LEVEL-99%20SYSTEMS%20ARCHITECT-00F5FF?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Level 99">
-  </a>
-  <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/CLASS-AI%20%26%20FULL-STACK%20ILLUSIONIST-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Class">
-  </a>
-  <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/ENERGY-100%25%20(COFFEE%20POWERED)-7B2CBF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Energy">
-  </a>
-  <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ONLINE-00FF66?style=for-the-badge&logo=serverless&logoColor=black" alt="Status">
-  </a>
-</p>
-
----
-
-<!-- GAMIFIED VISITOR COUNTER & STATUS BAR -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saba1512006&label=SYSTEM%20TELEMETRY%20VISITORS&color=00f5ff&style=cyberpunk" alt="Visitor Count" />
-</p>
-
-</div>
-
----
-
-## 🔮 THE CYBER-ILLUSIONIST HUD // PLAYER PROFILE
-
-```text
-  ____________________________________________________________________________
- /                                                                            \
-|   PLAYER NAME  : SABA RAJPUT (Saba1512006)                                   |
-|   TITLE        : Full-Stack & Dual-Model AI Systems Architect                |
-|   ALIGNMENT    : Chaotic Creative / Perfectionist Engineer                  |
-|   GUILD        : Aptech NextWave AI & ML / Enterprise Web Systems            |
-|   SPECIALTY    : High-Performance Web Apps, Neural Adjudication, OCR Ops  |
-|                                                                              |
-|   HEALTH (HP)  : [████████████████████████████] 100% (High Availability)     |
-|   ENERGY (MP)  : [█████████████████████████░░░]  92% (Coffee & Code Surge)  |
-|   EXPERIENCE   : [████████████████████████████] Lvl 99 (999,999 / 999,999 XP)|
- \____________________________________________________________________________/
-```
-
----
-
-## 🛰️ NEURAL EXPEDITION MISSION CONTROL // CURRENTLY EXPLORING
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🛸 ACTIVE EXPEDITION RADAR                                                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  [STATUS]      : 🟢 ACTIVE IN PRODUCTION & RESEARCH                         │
-│  [TARGET 01]   : 🧠 Dual-Model Neural Consensus Engine (Tabular ML + Vision)│
-│  [TARGET 02]   : ⚡ Next.js 16 Edge Compute & Server Actions Architecture    │
-│  [TARGET 03]   : 👁️ OCR Document Processing & SHA-256 Hashing Pipelines     │
-│  [TARGET 04]   : 🛡️ Zero-Trust RBAC Access Control & Immutable Audit Logs    │
-│  [TARGET 05]   : 📊 High-Dimensional Feature Engineering & Model Metrics    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![Multimodal AI](https://img.shields.io/badge/🧠%20Dual--Model%20Neural%20Consensus-PyTorch%20%2B%20GTM-00F5FF?style=for-the-badge&logo=pytorch&logoColor=black)](https://github.com/Saba1512006/assurex-claim-engine)
-[![Next.js 16 Edge](https://img.shields.io/badge/⚡%20Next.js%2016%20Edge%20Compute-React%20Server%20Actions-FF007F?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Saba1512006/alburjeel-web)
-[![Computer Vision OCR](https://img.shields.io/badge/👁️%20OCR%20%26%20Document%20Ops-OpenCV%20%2B%20SHA--256-7B2CBF?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/Saba1512006/assurex-claim-engine)
-[![Zero-Trust RBAC](https://img.shields.io/badge/🛡️%20Zero--Trust%20Security%20%26%20RBAC-Audit%20Engine-00FF66?style=for-the-badge&logo=auth0&logoColor=black)](https://github.com/Saba1512006/assurex-claim-engine)
-[![Educational Analytics](https://img.shields.io/badge/📊%20ML%20Risk%20Prediction-Scikit--Learn%20MLP-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://github.com/Saba1512006/EduPredict)
-[![Cloud DevOps](https://img.shields.io/badge/☁️%20Autonomous%20Cloud%20DevOps-Docker%20%2B%20Actions-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Saba1512006)
-
-</div>
-
----
-
-## ⚡ NEURAL SKILL OVERCLOCK // SYSTEM METRICS
-
-```text
-  SYSTEM DOMAIN                 LEVEL    OVERCLOCK POWER MATRIX
-  ───────────────────────────── ─────── ──────────────────────────────────────────
-  Python & ML Pipeline Engine   [Lv.99] [██████████████████████████████████████] 99%
-  Next.js 16 & React Edge Stack  [Lv.96] [████████████████████████████████████░░] 96%
-  Flask & REST API Architecture  [Lv.98] [█████████████████████████████████████░] 98%
-  Security & RBAC Infrastructure [Lv.97] [██████████████████████████████████████] 97%
-  SQL & Relational DB Schema     [Lv.95] [███████████████████████████████████░░░] 95%
-  Tailwind CSS & Modern UI       [Lv.98] [█████████████████████████████████████░] 98%
-```
-
----
-
-## ⚔️ RPG QUEST MILESTONES & ACHIEVEMENTS
-
-| Boss / Milestone | XP Reward | Difficulty | Quest Status | Defeated Via |
-| :--- | :---: | :---: | :---: | :--- |
-| 🐲 **The Dual-Model Adjudicator** | **+25,000 XP** | 🟪 LEGENDARY | 🟢 DEFEATED | Scikit-Learn + GTM Vision Consensus Engine |
-| 🏰 **The High-Traffic Booking Hydra** | **+15,000 XP** | 🟦 EPIC | 🟢 DEFEATED | Next.js 16 Edge Rendering & Tailwind CSS |
-| 🛡️ **The RBAC Security Sentinel** | **+10,000 XP** | 🟨 RARE | 🟢 DEFEATED | CSRF Tokens, IDOR Isolation & Audit Logs |
-| 🔮 **The Student Risk Predictor** | **+8,000 XP** | 🟦 EPIC | 🟢 DEFEATED | Multi-Layer Perceptron & Hyperparameter Tuning |
-
----
-
-## 🎮 FEATURED SYSTEM ARTIFACTS // REPOSITORIES
-
-| Project Artifact | Domain & Stack | System Capability | Direct Access |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **AssureX Claim Engine** | Python ML, GTM Vision, OCR, Flask, SQLite | **Dual-Model Warranty Adjudication Platform**. Combines tabular ML, GTM vision classification, OCR receipt parsing, 8 lifecycle stages, and RBAC security. | [⚡ Explore Repo](https://github.com/Saba1512006/assurex-claim-engine) |
-| 🏰 **AlBurjeel Web Platform** | Next.js 16, React, Node.js, Tailwind CSS | **Luxury Tour & Booking Engine**. Ultra-fast server rendering, visa booking, Dubai safaris & yacht cruises. | [⚡ Explore Repo](https://github.com/Saba1512006/alburjeel-web) |
-| 🎓 **EduPredict** | Python ML, Scikit-Learn, Flask, Chart.js | **Educational Analytics & Student Risk Prediction**. Machine learning pipeline forecasting at-risk students. | [⚡ Explore Repo](https://github.com/Saba1512006/EduPredict) |
-| 🌴 **Desert Dubai Tour** | Full-Stack Web, Modern UI/UX, Booking API | **Tourism & Activity Reservation Engine**. High conversion booking interface for Dubai desert safari tours. | [⚡ Explore Repo](https://github.com/Saba1512006/desert-dubai-tour) |
-| 🎨 **Institute of Fine Arts** | ASP.NET Core MVC, C#, SQL Server | **Enterprise Institute Management Platform**. Multi-role course management, student intake & grading portal. | [⚡ Explore Repo](https://github.com/Saba1512006/institute-of-fine-arts) |
-
----
-
-## ⚡ TECH MATRIX // SKILL SPELLBOOK
-
-<details open>
-<summary><b>🔥 Click to Collapse / Expand Spellbook Matrix</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0F172A,75:0F766E,100:14B8A6&text=SABA%20NOOR&fontSize=58&fontColor=F8FAFC&fontAlignY=37&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20BUILDER&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
-### 🔮 Languages & Core Alchemy
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://github.com/Saba1512006">
+<img src="https://img.shields.io/badge/GitHub-Saba1512006-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sabarajput672@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🧠 AI / ML & Computer Vision Artifacts
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Teachable Machine](https://img.shields.io/badge/Teachable_Machine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<br/><br/>
 
-### 🚀 Frameworks & Web Architecture
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Building+real+software%2C+not+just+demos.;Turning+problems+into+working+systems.;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deployment.;Learn.+Build.+Break.+Understand.+Rebuild+Better." alt="Typing animation"/>
 
-### 💾 Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br/><br/>
+
+> **I don't just write code. I turn problems into working systems.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Saba1512006&label=PROFILE%20VIEWS&color=0F766E&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ SYSTEM INITIALIZATION
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         SABA ENGINEERING CORE                               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  STATUS        ● ONLINE                                                     │
+│  ROLE          FULL-STACK SOFTWARE ENGINEER                                 │
+│  MODE          BUILD → TEST → SECURE → DEPLOY → ITERATE                    │
+│                                                                              │
+│  PRIMARY       WEB APPLICATIONS • BACKEND • DATABASES                       │
+│  SECONDARY     AI / ML • DATA • SYSTEM DESIGN                              │
+│                                                                              │
+│  FRONTEND      React • Next.js • HTML • CSS • Tailwind • Bootstrap          │
+│  BACKEND       Node.js • Express • ASP.NET Core • Flask • REST APIs         │
+│  DATABASES     MongoDB • SQL Server • MySQL                                 │
+│  AI / DATA     Python • Scikit-Learn • OCR • Computer Vision                │
+│  TOOLING       Git • GitHub • Postman • Visual Studio • VS Code             │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 ENGINEERING PROFILE
+
+I'm a Full-Stack Software Engineer focused on building practical, data-driven and production-oriented software.
+
+I enjoy taking an idea from:
+
+```text
+PROBLEM
+   ↓
+REQUIREMENTS
+   ↓
+DATA MODEL
+   ↓
+ARCHITECTURE
+   ↓
+IMPLEMENTATION
+   ↓
+TESTING
+   ↓
+SECURITY
+   ↓
+DEPLOYMENT
+   ↓
+ITERATION
+```
+
+My work covers:
+
+- 🌐 Full-stack web applications
+- ⚙️ Backend systems & REST APIs
+- 🗄️ Relational & NoSQL databases
+- 🔐 Authentication & authorization
+- 👥 Role-based application workflows
+- 🤖 Machine-learning applications
+- 👁️ OCR & computer-vision workflows
+- 📊 Data-driven dashboards
+- 📱 Responsive interfaces
+- 🚀 Application deployment
+
+> The goal isn't to use the most technologies.
+> The goal is to use the **right** technologies to solve the **right** problem.
+
+---
+
+# 🎮 COMMIT DEFENDER // CODEBASE UNDER ATTACK
+
+<div align="center">
+
+<img src="./assets/commit-defender.gif" alt="Commit Defender animated engineering game" width="100%"/>
+
+<br/>
+
+### ⚔️ DEFEND THE CODE CORE
+
+```text
+BUGS     → INCOMING
+SYSTEM   → ONLINE
+MISSION  → SHIP • SECURE • ITERATE
+```
+
+</div>
+
+<details>
+<summary><strong>🎯 WHAT IS THIS?</strong></summary>
+<br/>
+
+Instead of the usual contribution snake, this profile uses a custom engineering-themed mini-game:
+
+```text
+              BUGS
+               ↓
+        ┌─────────────┐
+        │             │
+        │  CODE CORE  │ ←── ENGINEERING
+        │      ◉      │
+        │             │
+        └─────────────┘
+               ↑
+             SHIP
+```
+
+The idea is simple:
+
+**software is constantly under attack** from bugs, edge cases, complexity and changing requirements.
+
+The engineer's job is to **keep the system stable** while continuing to **ship**.
 
 </details>
 
 ---
 
-## 📊 LIVE CYBER METRICS & ANALYTICS
+# 🚀 FEATURED SYSTEMS
+
+A selection of projects representing different engineering domains.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Friends Guide Real Estate
+
+> Real-estate business platform
+
+**Stack**
+| | |
+|---|---|
+| Laravel 12 | Filament v3 |
+| Livewire | PHP |
+
+**Engineering Focus**
+- Business-oriented workflows
+- Real-estate data management
+- Administrative interfaces
+- Dynamic content
+- Backend-driven architecture
+
+<a href="https://github.com/Saba1512006/friends-guide-real-estate">
+
+### ⚡ VIEW REPOSITORY →
+
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Management System
+
+> Full-stack hotel booking & operations platform
+
+**Stack**
+| | |
+|---|---|
+| MongoDB | Express |
+| React | Node.js |
+
+**Engineering Focus**
+- Booking workflows
+- Hotel operations
+- Full-stack architecture
+- Database-driven features
+- Responsive interface
+
+<a href="https://github.com/Saba1512006/hotel-management-system">
+
+### ⚡ VIEW REPOSITORY →
+
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 EduPredict
+
+> Educational analytics & student-risk prediction platform
+
+**Stack**
+| | |
+|---|---|
+| Python | Scikit-Learn |
+| Flask | Chart.js |
+
+**Engineering Focus**
+- Machine-learning pipeline
+- Student-risk prediction
+- Data processing
+- Analytics
+- Visualization
+
+<a href="https://github.com/Saba1512006/EduPredict">
+
+### ⚡ VIEW REPOSITORY →
+
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Institute of Fine Arts
+
+> Institute management platform
+
+**Stack**
+| | |
+|---|---|
+| C# | ASP.NET Core MVC |
+| SQL Server | |
+
+**Engineering Focus**
+- Student management
+- Course management
+- Administrative workflows
+- Relational database design
+- MVC architecture
+
+<a href="https://github.com/Saba1512006/institute-of-fine-arts">
+
+### ⚡ VIEW REPOSITORY →
+
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 ENGINEERING QUEST LOG
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         ENGINEERING QUEST LOG                               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  [✓] Full-Stack Web Applications                                            ║
+║  [✓] REST API Development                                                   ║
+║  [✓] CRUD & Business Workflows                                              ║
+║  [✓] Relational Databases                                                   ║
+║  [✓] NoSQL Databases                                                        ║
+║  [✓] Authentication & Authorization                                         ║
+║  [✓] Role-Based Access Control                                              ║
+║  [✓] Responsive UI Engineering                                              ║
+║  [✓] Machine Learning Applications                                          ║
+║  [✓] Data Visualization                                                     ║
+║  [✓] OCR / Document Processing                                              ║
+║                                                                              ║
+║  [→] Advanced System Design                                                  ║
+║  [→] Production DevOps                                                       ║
+║  [→] Cloud Architecture                                                      ║
+║  [→] Advanced AI Integration                                                 ║
+║                                                                              ║
+║  [○] Distributed Systems                                                     ║
+║  [○] Event-Driven Architecture                                               ║
+║  [○] Large-Scale System Design                                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🛠️ TECHNICAL ARSENAL
+
+<details>
+<summary><strong>💻 LANGUAGES & CORE</strong></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,js,ts,python,html,css" />
+</p>
+</details>
+
+<details>
+<summary><strong>🎨 FRONTEND ENGINEERING</strong></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
+</p>
+
+**Focus**
+- Component-based interfaces
+- Responsive design
+- Modern UI architecture
+- Reusable components
+- Server-rendered applications
+- Performance-conscious interfaces
+- User-focused workflows
+
+</details>
+
+<details>
+<summary><strong>⚙️ BACKEND ENGINEERING</strong></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,flask" />
+</p>
+
+**Focus**
+- REST APIs
+- Business logic
+- CRUD systems
+- Authentication
+- Authorization
+- Server-side validation
+- API integration
+- Backend architecture
+
+</details>
+
+<details>
+<summary><strong>🗄️ DATABASE SYSTEMS</strong></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+**Relational**
+> SQL Server • MySQL
+
+**NoSQL**
+> MongoDB
+
+**Core Concepts**
+> CRUD • Joins • Stored Procedures • Schema Design • Data Modeling • Query Optimization
+
+</details>
+
+<details>
+<summary><strong>🤖 AI / ML / DATA</strong></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+> Scikit-Learn • Machine Learning • Computer Vision • OCR • Data Processing • Data Visualization
+
+**Areas of Interest**
+- Predictive systems
+- Classification
+- Data preprocessing
+- Model experimentation
+- Document intelligence
+- Computer vision
+- AI-assisted business applications
+
+</details>
+
+<details>
+<summary><strong>🔐 SECURITY & APPLICATION ENGINEERING</strong></summary>
+<br/>
+
+- Authentication
+- Authorization
+- RBAC
+- Input Validation
+- Session Management
+- API Security
+- Audit Logging
+
+> Security belongs in architecture—not as an afterthought.
+
+</details>
+
+<details>
+<summary><strong>🚀 TOOLS & ENGINEERING WORKFLOW</strong></summary>
+<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux,docker,nginx" />
+</p>
+</details>
+
+---
+
+# 🏗️ HOW I DESIGN SYSTEMS
+
+```text
+                         ┌───────────────────┐
+                         │      PROBLEM      │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   REQUIREMENTS    │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │    DATA MODEL     │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                  ┌────────────────┴────────────────┐
+                  │                                 │
+                  ▼                                 ▼
+          ┌───────────────┐                 ┌───────────────┐
+          │   FRONTEND    │                 │    BACKEND    │
+          │ React / Next  │◄───────────────►│ APIs / Logic  │
+          └───────┬───────┘                 └───────┬───────┘
+                  │                                 │
+                  └────────────────┬────────────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │     DATABASE      │
+                         │ Mongo / SQL       │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │ TEST • SECURE     │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │ DEPLOY • MONITOR  │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                              ITERATE
+```
+
+---
+
+# 🧠 ENGINEERING MINDSET
+
+**01 — Understand the problem**
+> Don't start with the framework. Start with the problem.
+
+**02 — Model the data**
+> Entities, relationships, workflows and constraints come first.
+
+**03 — Choose the architecture**
+> Use the simplest architecture that can realistically support the requirements.
+
+**04 — Build**
+> Turn the architecture into working software.
+
+**05 — Validate**
+> Test expected behavior and failure paths.
+
+**06 — Secure**
+> Protect data, access boundaries and system behavior.
+
+**07 — Deploy**
+> A system becomes real when users can actually use it.
+
+**08 — Iterate**
+> Measure → learn → improve.
+
+---
+
+# 🧪 ENGINEERING LAB
+
+> Where curiosity becomes implementation.
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                         CURRENT LAB                              │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  [01] Advanced Next.js Architecture              ███████░░░ 70%  │
+│  [02] Backend System Design                      ██████░░░░ 60%  │
+│  [03] AI-Assisted Applications                   ██████░░░░ 60%  │
+│  [04] API Security                               █████░░░░░ 50%  │
+│  [05] Database Optimization                      █████░░░░░ 50%  │
+│  [06] Production DevOps                          ████░░░░░░ 40%  │
+│  [07] Distributed Systems                        ███░░░░░░░ 30%  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+**Learning loop**
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+REBUILD BETTER
+```
+
+---
+
+# 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Saba1512006&show_icons=true&theme=cyberpunk&count_private=true&hide_border=true&title_color=00F5FF&icon_color=FF007F&text_color=E0E0E0&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&theme=cyberpunk&hide_border=true&title_color=00F5FF&text_color=E0E0E0&bg_color=0D1117" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&theme=transparent&hide_border=true" width="42%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saba1512006&theme=cyberpunk&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF007F&fire=00FF66" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Saba1512006&theme=transparent&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-## 🕹️ INTERACTIVE CIPHER TERMINAL // ILLUSIONIST CORE
+# 📈 CONTRIBUTION FLOW
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&bg_color=00000000&color=14B8A6&line=14B8A6&point=F8FAFC&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 ENGINEERING MILESTONES
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+**FULL-STACK**
+
+End-to-end web applications
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**BACKEND**
+
+APIs, business logic & data
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI / DATA**
+
+ML & intelligent systems
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**DELIVERY**
+
+Testing, deployment & iteration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧬 ENGINEERING PRINCIPLES
 
 ```text
-┌──(saba㉿cyber-terminal)-[~/matrix/realm]
-└─$ cat quote_of_the_day.txt
-"Any sufficiently advanced technology is indistinguishable from magic."
-                                               — Arthur C. Clarke
-
-┌──(saba㉿cyber-terminal)-[~/matrix/realm]
-└─$ ./run_system_diagnostics.sh --mode=illusionist
-[INFO]  Initializing Neural Core..................... [ OK ]
-[INFO]  Loading Scikit-Learn & GTM Classifiers....... [ OK ]
-[INFO]  Connecting Next.js 16 Edge Routers........... [ OK ]
-[INFO]  Optimizing Dual-Model Comparator............. [ 100% ]
-[SUCCESS] SYSTEM ONLINE. READY TO BUILD THE FUTURE!
+╔══════════════════════════════════════════════════════════════════════╗
+║                       ENGINEERING PRINCIPLES                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  01  SOLVE THE RIGHT PROBLEM                                        ║
+║      Good engineering starts before the first line of code.         ║
+║                                                                      ║
+║  02  KEEP COMPLEXITY EARNED                                         ║
+║      Don't add complexity simply to look advanced.                  ║
+║                                                                      ║
+║  03  DESIGN FOR CHANGE                                              ║
+║      Requirements evolve. Systems should be able to evolve too.     ║
+║                                                                      ║
+║  04  SECURITY IS A FEATURE                                          ║
+║      Trust boundaries belong in the architecture.                   ║
+║                                                                      ║
+║  05  AUTOMATE THE REPEATABLE                                        ║
+║      Predictable work should become reliable automation.            ║
+║                                                                      ║
+║  06  SHIP • OBSERVE • IMPROVE                                       ║
+║      A deployed system teaches more than an unfinished prototype.   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌐 TRANSMISSION RELAY // CONNECT WITH ME
+# 🖥️ TERMINAL // ENGINEERING CORE
+
+```bash
+┌──(saba@engineering-core)-[~/systems]
+└─$ whoami
+
+saba-noor :: full-stack-software-engineer
+
+
+┌──(saba@engineering-core)-[~/systems]
+└─$ ./diagnostics
+
+[ OK ] Frontend systems
+[ OK ] Backend systems
+[ OK ] Database systems
+[ OK ] REST APIs
+[ OK ] Authentication
+[ OK ] AI / ML experimentation
+[ OK ] Application architecture
+
+
+┌──(saba@engineering-core)-[~/systems]
+└─$ ./mission
+
+BUILD USEFUL SOFTWARE
+SOLVE REAL PROBLEMS
+KEEP LEARNING
+SHIP BETTER SYSTEMS
+
+
+┌──(saba@engineering-core)-[~/systems]
+└─$ echo $NEXT
+
+BUILD → LEARN → SHIP → REPEAT
+
+
+[ SYSTEM ONLINE ]
+```
+
+---
+
+# 🗺️ REPOSITORY MAP
+
+| Repository | Domain | Technology |
+|---|---|---|
+| friends-guide-real-estate | Real Estate Platform | Laravel · Filament · Livewire |
+| hotel-management-system | Hotel Management | MERN |
+| EduPredict | Educational Analytics | Python · ML · Flask |
+| institute-of-fine-arts | Institute Management | ASP.NET Core · C# · SQL Server |
+| php-movie-booking-system | Movie Booking | PHP |
+| rainwater-harvesting | Informational Web | HTML |
+
+---
+
+# 🌱 CURRENT DIRECTION
+
+```text
+                         SOFTWARE ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+        WEB SYSTEMS          AI / DATA           BACKEND SYSTEMS
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                                  ▼
+                         PRODUCTION SOFTWARE
+```
+
+**Areas I'm actively interested in**
+- Modern full-stack architecture
+- AI-powered applications
+- Backend engineering
+- Database architecture
+- API design
+- Application security
+- Cloud & deployment
+- System design
+- Developer tooling
+
+---
+
+# 📡 LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Saba1512006">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Saba1512006-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:sabarajput672@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://medium.com/@samikhan031027">
-  <img src="https://img.shields.io/badge/Medium-Technical_Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<sub>✨ Handcrafted with Cyberpunk Aesthetics, Neural Precision, and High-Performance Code by <b>Saba Rajput</b> ✨</sub>
+### BUILD SOMETHING THAT MATTERS.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:14B8A6,45:0F766E,75:0F172A,100:020617" width="100%"/>
 
 </div>
