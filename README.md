@@ -50,13 +50,13 @@
 
 ---
 
-## 🌆 3D CYBERPUNK COMMIT SKYLINE // ISOMETRIC CONTRIBUTION CITY
+## 🐍 CONTRIBUTION SNAKE ARCADE GAME // COMMIT GRID EATER
 
 <div align="center">
-  <p><b>🏙️ ISOMETRIC 3D SKYSCRAPER CITY GENERATED FROM REAL-TIME COMMIT ACTIVITY 🏙️</b></p>
+  <p><b>👾 LIVE ANIMATED RETRO SNAKE EATING YOUR COMMIT BLOCKS ON THE CONTRIBUTION GRID 👾</b></p>
   
   <a href="https://github.com/Saba1512006">
-    <img src="https://raw.githubusercontent.com/Saba1512006/Saba1512006/main/profile-3d-contrib/profile-night-view.svg" alt="Saba Rajput 3D Cyberpunk Commit Skyline" width="100%" />
+    <img src="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake-dark.svg" alt="Saba Rajput GitHub Contribution Snake Arcade" width="100%" />
   </a>
 </div>
 
