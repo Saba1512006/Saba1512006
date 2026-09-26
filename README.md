@@ -2,7 +2,7 @@
 
 <!-- ANIMATED HEADER / ILLUSIONIST TYPING BANNER -->
 <a href="https://github.com/Saba1512006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=⚡+WELCOME+TO+THE+CYBER-REALM+OF+SABA+RAJPUT;🚀+FULL-STACK+%26+AI+SYSTEMS+ENGINEER+%2F+CODE+ILLUSIONIST;🔮+TRANSFORMING+COMPLEX+LOGIC+INTO+STATE-OF-THE-ART+SOFTWARE" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=⚡+SABA+RAJPUT+%2F%2F+CYBER-SYSTEMS+ARCHITECT;🚀+FULL-STACK+%26+DUAL-MODEL+AI+ENGINEER;🔮+TRANSFORMING+COMPLEX+LOGIC+INTO+STATE-OF-THE-ART+SOFTWARE" alt="Typing Banner" />
 </a>
 
 <p align="center">
@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/badge/LEVEL-99%20SYSTEMS%20ARCHITECT-00F5FF?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Level 99">
   </a>
   <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/CLASS-FULL--STACK%20%26%20AI%20ILLUSIONIST-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Class">
+    <img src="https://img.shields.io/badge/CLASS-AI%20%26%20FULL-STACK%20ILLUSIONIST-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Class">
   </a>
   <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/MANA-MAX%20(COFFEE%20POWERED)-7B2CBF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Mana">
+    <img src="https://img.shields.io/badge/ENERGY-100%25%20(COFFEE%20POWERED)-7B2CBF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Energy">
   </a>
   <a href="https://github.com/Saba1512006">
-    <img src="https://img.shields.io/badge/STATUS-READY%20FOR%20NEXT%20QUEST-00FF66?style=for-the-badge&logo=serverless&logoColor=black" alt="Status">
+    <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ONLINE-00FF66?style=for-the-badge&logo=serverless&logoColor=black" alt="Status">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <!-- GAMIFIED VISITOR COUNTER & STATUS BAR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saba1512006&label=CYBER%20GRID%20VISITORS&color=00f5ff&style=cyberpunk" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Saba1512006&label=SYSTEM%20TELEMETRY%20VISITORS&color=00f5ff&style=cyberpunk" alt="Visitor Count" />
 </p>
 
 </div>
@@ -50,27 +50,22 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE ARCADE GAME // COMMIT GRID EATER
+## 🛰️ NEURAL EXPEDITION MISSION CONTROL // CURRENTLY EXPLORING
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🛸 ACTIVE EXPEDITION RADAR                                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  [STATUS]      : 🟢 ACTIVE IN PRODUCTION & RESEARCH                         │
+│  [TARGET 01]   : 🧠 Dual-Model Neural Consensus Engine (Tabular ML + Vision)│
+│  [TARGET 02]   : ⚡ Next.js 16 Edge Compute & Server Actions Architecture    │
+│  [TARGET 03]   : 👁️ OCR Document Processing & SHA-256 Hashing Pipelines     │
+│  [TARGET 04]   : 🛡️ Zero-Trust RBAC Access Control & Immutable Audit Logs    │
+│  [TARGET 05]   : 📊 High-Dimensional Feature Engineering & Model Metrics    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
-  <p><b>👾 LIVE ANIMATED RETRO SNAKE EATING YOUR COMMIT BLOCKS ON THE CONTRIBUTION GRID 👾</b></p>
-  
-  <a href="https://github.com/Saba1512006">
-    <img src="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake-dark.svg" alt="Saba Rajput GitHub Contribution Snake Arcade" width="100%" />
-  </a>
-</div>
-
----
-
-## 🛰️ ACTIVE EXPEDITION RADAR // CURRENTLY EXPLORING
-
-<div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-SEARCHING_NEURAL_FRONTIERS-00F5FF?style=for-the-badge&logo=radar&logoColor=black" alt="Radar Header" />
-</p>
-
-<br/>
 
 [![Multimodal AI](https://img.shields.io/badge/🧠%20Dual--Model%20Neural%20Consensus-PyTorch%20%2B%20GTM-00F5FF?style=for-the-badge&logo=pytorch&logoColor=black)](https://github.com/Saba1512006/assurex-claim-engine)
 [![Next.js 16 Edge](https://img.shields.io/badge/⚡%20Next.js%2016%20Edge%20Compute-React%20Server%20Actions-FF007F?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Saba1512006/alburjeel-web)
@@ -83,17 +78,22 @@
 
 ---
 
-## 🏆 GAMIFIED ACHIEVEMENT TROPHIES & UNLOCKS
+## ⚡ NEURAL SKILL OVERCLOCK // SYSTEM METRICS
 
-<div align="center">
-  <a href="https://github.com/Saba1512006">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=cyberpunk&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="Saba Rajput GitHub Trophies" width="100%" />
-  </a>
-</div>
+```text
+  SYSTEM DOMAIN                 LEVEL    OVERCLOCK POWER MATRIX
+  ───────────────────────────── ─────── ──────────────────────────────────────────
+  Python & ML Pipeline Engine   [Lv.99] [██████████████████████████████████████] 99%
+  Next.js 16 & React Edge Stack  [Lv.96] [████████████████████████████████████░░] 96%
+  Flask & REST API Architecture  [Lv.98] [█████████████████████████████████████░] 98%
+  Security & RBAC Infrastructure [Lv.97] [██████████████████████████████████████] 97%
+  SQL & Relational DB Schema     [Lv.95] [███████████████████████████████████░░░] 95%
+  Tailwind CSS & Modern UI       [Lv.98] [█████████████████████████████████████░] 98%
+```
 
 ---
 
-## ⚔️ RPG QUEST MILESTONES & BOSS BATTLES
+## ⚔️ RPG QUEST MILESTONES & ACHIEVEMENTS
 
 | Boss / Milestone | XP Reward | Difficulty | Quest Status | Defeated Via |
 | :--- | :---: | :---: | :---: | :--- |
@@ -104,9 +104,9 @@
 
 ---
 
-## 🎮 GAMIFIED QUEST LOG // FEATURED ARTIFACTS
+## 🎮 FEATURED SYSTEM ARTIFACTS // REPOSITORIES
 
-| Quest / Artifact Name | Domain & Tech Stack | System Capability & Illusion Score | Direct Link |
+| Project Artifact | Domain & Stack | System Capability | Direct Access |
 | :--- | :--- | :--- | :---: |
 | 🛡️ **AssureX Claim Engine** | Python ML, GTM Vision, OCR, Flask, SQLite | **Dual-Model Warranty Adjudication Platform**. Combines tabular ML, GTM vision classification, OCR receipt parsing, 8 lifecycle stages, and RBAC security. | [⚡ Explore Repo](https://github.com/Saba1512006/assurex-claim-engine) |
 | 🏰 **AlBurjeel Web Platform** | Next.js 16, React, Node.js, Tailwind CSS | **Luxury Tour & Booking Engine**. Ultra-fast server rendering, visa booking, Dubai safaris & yacht cruises. | [⚡ Explore Repo](https://github.com/Saba1512006/alburjeel-web) |
