@@ -24,7 +24,7 @@
 
 <!-- GAMIFIED VISITOR COUNTER & STATUS BAR -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saba1512006&label=SYSTEM%20VISITORS&color=00f5ff&style=cyberpunk" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Saba1512006&label=CYBER%20GRID%20VISITORS&color=00f5ff&style=cyberpunk" alt="Visitor Count" />
 </p>
 
 </div>
@@ -47,6 +47,40 @@
 |   EXPERIENCE   : [████████████████████████████] Lvl 99 (999,999 / 999,999 XP)|
  \____________________________________________________________________________/
 ```
+
+---
+
+## 🐍 CONTRIBUTION SNAKE ARCADE GAME // GAMIFIED COMMIT GRID
+
+<div align="center">
+  <p><b>👾 RETRO SNAKE EATING COMMIT BLOCKS ON THE CONTRIBUTION GRID 👾</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## 🏆 GAMIFIED ACHIEVEMENT TROPHIES & UNLOCKS
+
+<div align="center">
+  <a href="https://github.com/Saba1512006">
+    <img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=cyberpunk&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="Saba Rajput GitHub Trophies" width="100%" />
+  </a>
+</div>
+
+---
+
+## ⚔️ RPG QUEST MILESTONES & BOSS BATTLES
+
+| Boss / Milestone | XP Reward | Difficulty | Quest Status | Defeated Via |
+| :--- | :---: | :---: | :---: | :--- |
+| 🐲 **The Dual-Model Adjudicator** | **+25,000 XP** | 🟪 LEGENDARY | 🟢 DEFEATED | Scikit-Learn + GTM Vision Consensus Engine |
+| 🏰 **The High-Traffic Booking Hydra** | **+15,000 XP** | 🟦 EPIC | 🟢 DEFEATED | Next.js 16 Edge Rendering & Tailwind CSS |
+| 🛡️ **The RBAC Security Sentinel** | **+10,000 XP** | 🟨 RARE | 🟢 DEFEATED | CSRF Tokens, IDOR Isolation & Audit Logs |
+| 🔮 **The Student Risk Predictor** | **+8,000 XP** | 🟦 EPIC | 🟢 DEFEATED | Multi-Layer Perceptron & Hyperparameter Tuning |
 
 ---
 
