@@ -50,15 +50,35 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE ARCADE GAME // GAMIFIED COMMIT GRID
+## 🌆 3D CYBERPUNK COMMIT SKYLINE // ISOMETRIC CONTRIBUTION CITY
 
 <div align="center">
-  <p><b>👾 RETRO SNAKE EATING COMMIT BLOCKS ON THE CONTRIBUTION GRID 👾</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saba1512006/Saba1512006/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <p><b>🏙️ ISOMETRIC 3D SKYSCRAPER CITY GENERATED FROM REAL-TIME COMMIT ACTIVITY 🏙️</b></p>
+  
+  <a href="https://github.com/Saba1512006">
+    <img src="https://raw.githubusercontent.com/Saba1512006/Saba1512006/main/profile-3d-contrib/profile-night-view.svg" alt="Saba Rajput 3D Cyberpunk Commit Skyline" width="100%" />
+  </a>
+</div>
+
+---
+
+## 🛰️ ACTIVE EXPEDITION RADAR // CURRENTLY EXPLORING
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENTLY_EXPLORING-SEARCHING_NEURAL_FRONTIERS-00F5FF?style=for-the-badge&logo=radar&logoColor=black" alt="Radar Header" />
+</p>
+
+<br/>
+
+[![Multimodal AI](https://img.shields.io/badge/🧠%20Dual--Model%20Neural%20Consensus-PyTorch%20%2B%20GTM-00F5FF?style=for-the-badge&logo=pytorch&logoColor=black)](https://github.com/Saba1512006/assurex-claim-engine)
+[![Next.js 16 Edge](https://img.shields.io/badge/⚡%20Next.js%2016%20Edge%20Compute-React%20Server%20Actions-FF007F?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/Saba1512006/alburjeel-web)
+[![Computer Vision OCR](https://img.shields.io/badge/👁️%20OCR%20%26%20Document%20Ops-OpenCV%20%2B%20SHA--256-7B2CBF?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/Saba1512006/assurex-claim-engine)
+[![Zero-Trust RBAC](https://img.shields.io/badge/🛡️%20Zero--Trust%20Security%20%26%20RBAC-Audit%20Engine-00FF66?style=for-the-badge&logo=auth0&logoColor=black)](https://github.com/Saba1512006/assurex-claim-engine)
+[![Educational Analytics](https://img.shields.io/badge/📊%20ML%20Risk%20Prediction-Scikit--Learn%20MLP-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://github.com/Saba1512006/EduPredict)
+[![Cloud DevOps](https://img.shields.io/badge/☁️%20Autonomous%20Cloud%20DevOps-Docker%20%2B%20Actions-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Saba1512006)
+
 </div>
 
 ---
