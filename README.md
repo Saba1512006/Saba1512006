@@ -860,19 +860,25 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<!-- GitHub Stats — Dark themed to match profile -->
-<img src="https://github-readme-stats.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&ring_color=2DD4BF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=94A3B8" width="42%"/>
+<!-- GitHub Stats — Using theme for reliability -->
+<img src="https://github-readme-stats.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&icon_color=2DD4BF&title_color=2DD4BF&ring_color=2DD4BF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2DD4BF" width="42%"/>
 
 <br/><br/>
 
-<!-- Streak Stats — Dark themed -->
-<img src="https://streak-stats.demolab.com?user=Saba1512006&hide_border=true&background=0D1117&stroke=0F766E&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=475569" width="70%"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Saba1512006&theme=dark&hide_border=true&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF" width="70%"/>
 
 <br/><br/>
 
-<!-- GitHub Profile Summary Cards -->
+<!-- GitHub Profile Summary Cards — Full Grid -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saba1512006&theme=github_dark" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saba1512006&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saba1512006&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saba1512006&theme=github_dark&utcOffset=5" width="32%"/>
 
 </div>
 
@@ -892,7 +898,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=F8FAFC&area=true&hide_border=true&area_color=0F766E" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&theme=github-compact&hide_border=true&area=true&line=2DD4BF&point=F8FAFC&area_color=0F766E&bg_color=0D1117&color=94A3B8" width="97%"/>
 
 </div>
 
