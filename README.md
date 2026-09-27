@@ -884,25 +884,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════════ ✦ CONTRIBUTION FLOW ✦ ═════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/📈-CONTRIBUTION%20FLOW-2DD4BF?style=for-the-badge&labelColor=020617"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph-psi.vercel.app/graph?username=Saba1512006&theme=react-dark&hide_border=true&area=true" width="97%"/>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ═══════════════════════ ✦ TROPHIES ✦ ══════════════════════════════ -->
