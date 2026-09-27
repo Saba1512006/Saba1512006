@@ -860,9 +860,9 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<!-- GitHub Stats —  Multiple sources for reliability -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&icon_color=2DD4BF&title_color=2DD4BF&ring_color=2DD4BF" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2DD4BF" width="42%"/>
+<!-- GitHub Stats — Using multiple reliable sources -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&icon_color=2DD4BF&title_color=2DD4BF&ring_color=2DD4BF" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2DD4BF" width="42%"/>
 
 <br/><br/>
 
@@ -898,7 +898,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&bg_color=0D1117&color=94A3B8&line=2DD4BF&point=F8FAFC&area=true&hide_border=true&area_color=0F766E" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&theme=react-dark&hide_border=true&area=true" width="97%"/>
 
 </div>
 
@@ -918,7 +918,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
 
 </div>
 
