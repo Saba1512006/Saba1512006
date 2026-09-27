@@ -55,11 +55,11 @@
 
 <!-- ═══════════════════════ DYNAMIC COUNTERS ═══════════════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=Saba1512006&label=⬡+PROFILE+VIEWS&color=2DD4BF&style=for-the-badge&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=Saba1512006&label=PROFILE+VIEWS&color=2DD4BF&style=for-the-badge&labelColor=020617"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Saba1512006?label=⬡+FOLLOWERS&style=for-the-badge&color=2DD4BF&labelColor=020617&logo=github"/>
+<img src="https://img.shields.io/github/followers/Saba1512006?label=FOLLOWERS&style=for-the-badge&color=2DD4BF&labelColor=020617&logo=github"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Saba1512006?label=⬡+TOTAL+STARS&style=for-the-badge&color=2DD4BF&labelColor=020617&logo=github"/>
+<img src="https://img.shields.io/github/stars/Saba1512006?label=TOTAL+STARS&style=for-the-badge&color=2DD4BF&labelColor=020617&logo=github"/>
 
 <br/>
 
@@ -860,9 +860,9 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<!-- GitHub Stats — Using theme for reliability -->
-<img src="https://github-readme-stats.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&icon_color=2DD4BF&title_color=2DD4BF&ring_color=2DD4BF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2DD4BF" width="42%"/>
+<!-- GitHub Stats —  Multiple sources for reliability -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saba1512006&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&icon_color=2DD4BF&title_color=2DD4BF&ring_color=2DD4BF" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saba1512006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2DD4BF" width="42%"/>
 
 <br/><br/>
 
@@ -898,7 +898,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&theme=github-compact&hide_border=true&area=true&line=2DD4BF&point=F8FAFC&area_color=0F766E&bg_color=0D1117&color=94A3B8" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&bg_color=0D1117&color=94A3B8&line=2DD4BF&point=F8FAFC&area=true&hide_border=true&area_color=0F766E" width="97%"/>
 
 </div>
 
@@ -918,7 +918,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
 
 </div>
 
