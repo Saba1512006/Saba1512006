@@ -898,7 +898,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saba1512006&theme=react-dark&hide_border=true&area=true" width="97%"/>
+<img src="https://github-readme-activity-graph-psi.vercel.app/graph?username=Saba1512006&theme=react-dark&hide_border=true&area=true" width="97%"/>
 
 </div>
 
@@ -918,7 +918,7 @@ The engineer's job is to **keep the system stable** while continuing to **ship**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saba1512006&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
+<img src="https://github-trophies.vercel.app/?username=Saba1512006&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
 
 </div>
 
